@@ -138,6 +138,11 @@ span {
     color: var(--pale-blue);
     font-family: inherit;
     font-weight: 800;
+    cursor: pointer;
+}
+
+.continue:hover {
+    background: var(--background);
 }
 
 .attribution { 
